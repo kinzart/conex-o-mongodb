@@ -1,2 +1,2 @@
 # conex-o-mongodb
-crud basico feito com mongo db, estudos de agosto 2020.
+conexao feita com node.js ao mongoDB, estudos de agosto 2020.
